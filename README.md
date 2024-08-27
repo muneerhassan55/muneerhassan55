@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muneer Hasan Software Engineer</h1>
-<h2 align="center">A passionate Flutter developer from Pakistan</h2>
+<h1 align="center">Hi 👋, I'm Muneer Hasan</h1>
+<h2 align="center">Software Engineer</h2>
+<h1 align="center">A passionate Flutter developer from Pakistan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneerhassan55&label=Profile%20views&color=0e75b6&style=flat" alt="muneerhassan55" /> </p>
 
