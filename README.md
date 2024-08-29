@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muneer Hasan<h2>Software Engineer</h2></h1>
+<h1 align="center">Hi 👋, I'm Muneer Hasan <h2>Software Engineer</h2></h1>
 
 <h1 align="center">A passionate Flutter developer from Pakistan</h1>
 
