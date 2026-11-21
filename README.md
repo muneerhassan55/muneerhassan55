@@ -11,7 +11,9 @@ Senior Flutter & full-stack developer from Pakistan. I build mobile apps that ha
 
 ### Open source
 
+- [**DevVault AI**](https://devvault-phi-roan.vercel.app): browser-local static analysis for web, mobile and backend projects. 60 rules across 22 frameworks catch hardcoded secrets, XSS sinks, CORS mistakes and risky mobile manifests before release. Nothing is uploaded.
 - [**flutter_privacy_doctor**](https://pub.dev/packages/flutter_privacy_doctor): a Dart CLI that checks iOS privacy manifests for every dependency and pre-fills the App Store and Google Play privacy forms. 160/160 pub points.
+- [**flutter_spm_doctor**](https://pub.dev/packages/flutter_spm_doctor): checks Flutter plugin dependencies for Swift Package Manager, UIScene lifecycle and Android 16KB page-size readiness. 160/160 pub points.
 
 ### Stack
 
