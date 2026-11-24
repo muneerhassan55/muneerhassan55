@@ -19,6 +19,7 @@
   <a href="https://muneerhasan.com"><img src="https://img.shields.io/badge/Portfolio-10B981?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://pub.dev/publishers/muneerhasan.com/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=dart&logoColor=white" alt="pub.dev"></a>
   <a href="mailto:muneerhassan5544@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/923449005529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
@@ -87,4 +88,4 @@ NestJS + PostgreSQL, Laravel, Firebase. CI/CD with GitHub Actions, crash monitor
 
 ## 📫 Get in touch
 
-Open to interesting payment, AI and real-time app projects. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/muneer-hasan-0a43a8202/) or [email](mailto:muneerhassan5544@gmail.com).
+Open to interesting payment, AI and real-time app projects. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/muneer-hasan-0a43a8202/), [email](mailto:muneerhassan5544@gmail.com) or [WhatsApp](https://wa.me/923449005529).
